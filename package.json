@@ -1,0 +1,1 @@
+{"name": "aurora-data-hub", "version": "1.0.0", "scripts": {"start": "node src/index.js"}, "dependencies": {"express": "^4.17.1", "mongodb": "^3.6.4"}}
